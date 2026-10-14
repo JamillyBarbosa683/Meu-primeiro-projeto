@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f5efff;
+    color: #35204f;
+}
+
+.cabecalho {
+    background: linear-gradient(135deg, #6f35b5, #a678e2);
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.cabecalho h1 {
+    font-size: 36px;
+}
+
+nav {
+    margin-top: 25px;
+}
+
+nav a {
+    display: inline-block;
+    margin: 6px;
+    padding: 12px 18px;
+    background-color: white;
+    color: #6f35b5;
+    text-decoration: none;
+    border-radius: 25px;
+    font-weight: bold;
+}
+
+main {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+
+section {
+    background-color: white;
+    margin-bottom: 25px;
+    padding: 25px;
+    border-radius: 16px;
+    box-shadow: 0 4px 12px #d9c9ed;
+}
+
+h2 {
+    color: #6f35b5;
+}
+
+.cartao {
+    background-color: #f5efff;
+    padding: 20px;
+    border-radius: 12px;
+    margin-top: 15px;
+}
+
+.icone-projeto {
+    font-size: 35px;
+}
+
+.etiqueta {
+    display: inline-block;
+    background-color: #e3d2ff;
+    color: #54278c;
+    padding: 6px 10px;
+    border-radius: 15px;
+    margin: 4px;
+    font-size: 13px;
+}
+
+a {
+    color: #6f35b5;
+}
+
+footer {
+    background-color: #35204f;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
