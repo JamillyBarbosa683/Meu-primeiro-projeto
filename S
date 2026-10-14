@@ -1,0 +1,52 @@
+style.css
+
+/* Aparência geral do site */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3eaff;
+    color: #302447;
+    margin: 0;
+    padding: 0;
+}
+
+/* Parte inicial do site */
+header {
+    background-color: #7138c8;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+/* Título principal */
+h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+/* Textos */
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* Espaço das seções */
+section {
+    background-color: white;
+    margin: 25px auto;
+    padding: 25px;
+    max-width: 800px;
+    border-radius: 15px;
+}
+
+/* Títulos das seções */
+h2 {
+    color: #7138c8;
+}
+
+/* Rodapé */
+footer {
+    background-color: #302447;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
